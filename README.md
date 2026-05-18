@@ -15,7 +15,7 @@
 
 ### Clone project
 
-``` bash
+
 
 git clone <your_repo_url>
 cd trading_bot
@@ -79,7 +79,5 @@ trading_bot/
 # SAVE FILE
 
 Press:
-
-```text
 Cmd + S
 
