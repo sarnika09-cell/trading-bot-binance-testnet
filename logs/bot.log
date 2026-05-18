@@ -1,0 +1,8 @@
+2026-05-18 19:28:41,592 - INFO - Placing MARKET order
+2026-05-18 19:28:41,807 - INFO - Order response: {'code': -2014, 'msg': 'API-key format invalid.'}
+2026-05-18 19:30:45,286 - INFO - Placing MARKET order
+2026-05-18 19:30:45,542 - INFO - Order response: {'orderId': 13156524615, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'oA6MtDaiFqWvub6630PxE0', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1779112845492}
+2026-05-18 19:32:32,402 - INFO - Placing LIMIT order
+2026-05-18 19:32:32,686 - INFO - Order response: {'code': -1022, 'msg': 'Signature for this request is not valid.'}
+2026-05-18 19:37:13,061 - INFO - Placing LIMIT order
+2026-05-18 19:37:13,290 - INFO - Order response: {'orderId': 13156549027, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'X1vp01Ovb2R0AA7kipIzVM', 'price': '120000.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1779113233244}
