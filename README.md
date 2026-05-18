@@ -52,11 +52,13 @@ python3 cli.py \
 --quantity 0.001 \
 --price 120000
 
-## Logs
+``` bash
+
+Logs
 Logs are stored in:
 logs/bot.log
 
-```bash
+
 
 # Project Structure
 trading_bot/
