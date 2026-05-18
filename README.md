@@ -56,7 +56,9 @@ python3 cli.py \
 Logs are stored in:
 logs/bot.log
 
-Project Structure
+```bash
+
+# Project Structure
 trading_bot/
 │
 ├── bot/
