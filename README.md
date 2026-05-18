@@ -41,7 +41,7 @@ python3 cli.py \
 --type MARKET \
 --quantity 0.001
 
-#LIMIT Order Example
+## LIMIT Order Example
 
 python3 cli.py \
 --api_key YOUR_KEY \
@@ -52,11 +52,11 @@ python3 cli.py \
 --quantity 0.001 \
 --price 120000
 
-##Logs
+## Logs
 Logs are stored in:
 logs/bot.log
 
-#Project Structure
+## Project Structure
 trading_bot/
 │
 ├── bot/
@@ -76,7 +76,7 @@ trading_bot/
 
 ---
 
-# SAVE FILE
+## SAVE FILE
 
 Press:
 Cmd + S
